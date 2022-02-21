@@ -1,2 +1,6 @@
-# python-projects
-Side projects using Python
+## Side projects using Python
+
+### Beginner Projects
+
+1. Dice Game
+
