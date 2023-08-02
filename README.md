@@ -6,7 +6,15 @@
 
 2. Number Guessing Game
 
-3. Command-Line Tool
-- A simple command-line tool that reverses the lines of a file.
-- To use this command-line tool, you can run it from the command line and pass the filename as an argument: ` python reverse.py input.txt `
-- This will reverse the lines of the input.txt file and print the output to stdout.
+3. Command-Line Tool (to reverse content of text file)
+
+4. Tower of Hanoi (Recursion)
+
+5. Reversing a String
+
+6. Maps and Filters
+
+7. Comprehensions
+
+
+
